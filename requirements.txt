@@ -1,0 +1,9 @@
+pdfplumber
+streamlit
+reportlab
+groq
+python-dotenv
+pytesseract
+pillow
+pdf2image
+pymupdf
